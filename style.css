@@ -79,8 +79,7 @@ display: block;
     position: relative;
 }
 .sale-image__offer{
-   height: 10%;
-    width: 35%;
+    width: 25%;
    border: solid black 2px;
    background-color: white;
    padding: 2px;
